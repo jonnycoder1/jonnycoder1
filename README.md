@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, welcome to Jon Olson's Github Repo
 
-<!--
-**jonnycoder1/jonnycoder1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a full stack LLM application that can summarize and search all videos for a YouTube channel
 
-Here are some ideas to get you started:
+- 🤔 I’m open to work as FTE/contract/freelance in the software engineering field
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: My best score in golf, on a par 72 course, is 67 (5 under par)
+
+- 📫 How to reach me:
+<a href="mailto:jonnycoder@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/jwolson1/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/jonolson_">
+  <img src="https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge" alt="X">
+</a>
+<a href="https://jon-olson.com">
+  <img src="https://img.shields.io/badge/Website-00C300?logoColor=fff&style=for-the-badge" alt="Website">
+</a>
