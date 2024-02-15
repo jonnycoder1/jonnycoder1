@@ -10,7 +10,7 @@
 ### 🏌️ Fun fact
 - My best score in golf, on a par 72 course, is 67 (5 under par) 
 
-### Website & Blog
+### 🌐 Website & Blog
 <a href="https://jon-olson.com">
   <img src="https://img.shields.io/badge/Website-00C300?logoColor=fff&style=for-the-badge" alt="Website">
 </a>
@@ -49,4 +49,4 @@ I have 10 years experience as a backend-focused software engineer and over 5 as 
 * 🎨 ASP.NET
 * 🎨 TailwindCSS
 
-More skills will be added in the coming months. I'm currently using Pinecone, Llama Index and React for a project.
+More skills will be added in the coming months. I'm currently using Pinecone, Llama Index and React for my current project.
