@@ -8,7 +8,7 @@
 - I’m open to work as FTE/contract/freelance in the software engineering field.
 
 ### 🏌️ Fun fact
-- My best score in golf, on a par 72 course, is 67 (5 under par) 
+My best score in golf, on a par 72 course, is 67 (5 under par) 
 
 ### 🌐 Website & Blog
 <a href="https://jon-olson.com">
