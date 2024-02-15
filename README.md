@@ -1,11 +1,11 @@
 ## Hi, Welcome to Jon Olson's Github Repo
 
 ### 🤔 About Me
-- I’m currently working on a full stack LLM application that can summarize and search all videos for a YouTube channel
+- I’m currently working on a full stack LLM application that can summarize and search all videos for a YouTube channel.
 
 - I've spent 98% of my career focusing on solving my employeer's work problems, and the recent 2% adding to my own GitHub repo. I recommend not making the same mistake.
   
-- I’m open to work as FTE/contract/freelance in the software engineering field
+- I’m open to work as FTE/contract/freelance in the software engineering field.
 
 ### 🏌️ Fun fact
 - My best score in golf, on a par 72 course, is 67 (5 under par) 
