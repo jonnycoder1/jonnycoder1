@@ -22,9 +22,7 @@ My best score in golf, on a par 72 course, is 67 (5 under par)
 <a href="https://www.linkedin.com/in/jwolson1/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/jonolson_">
-  <img src="https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge" alt="X">
-</a>
+
 
 ### 🛠️ Technical Skills
 I have 10 years experience as a backend-focused software engineer and over 5 as a full stack developer.
